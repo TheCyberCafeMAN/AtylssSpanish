@@ -1,0 +1,13 @@
+{
+  "code": "es-ES",
+  "name": "Español (Spanish)",
+  "autoShrinkOverflowingText": true,
+   "fontReplacementCentaur": {
+ 	"bundleName": "localyssation_extra_font_bundle",
+ 	"fontName": "Alegreya"
+  },
+  "fontReplacementTerminalGrotesque": {
+    "bundleName": "",
+    "fontName": ""
+  }
+}
