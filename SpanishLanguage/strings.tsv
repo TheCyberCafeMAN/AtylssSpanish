@@ -1697,49 +1697,49 @@ DIALOGDATA_ENOK_BRANCH_1_DIALOG_0_INPUT_ALT_3	Te Escucho.
 DIALOGDATA_ENOK_BRANCH_1_DIALOG_0_SELECTION_0	Eh, La verdad...
 DIALOGDATA_ENOK_BRANCH_1_DIALOG_0_SELECTION_1	Quien eres?
 DIALOGDATA_ENOK_BRANCH_1_DIALOG_0_SELECTION_2	Que son los luchadores?
-DIALOGDATA_ENOK_BRANCH_1_DIALOG_0_SELECTION_3	Parrying?
-DIALOGDATA_ENOK_BRANCH_2_DIALOG_0_INPUT	Soy Enok, Guardian luchador. represento lo feroz que es la luz, asediando el infierno contra la oscuridad.
-DIALOGDATA_ENOK_BRANCH_2_DIALOG_1_INPUT	I take it you are new to this world. You've arrived late, during a time where it stands corrupted.
-DIALOGDATA_ENOK_BRANCH_2_DIALOG_2_INPUT	My powers provide the strength and vitality to the souls who are driven to prove themselves worthy.
-DIALOGDATA_ENOK_BRANCH_2_DIALOG_3_INPUT	I sense a spark of determination within you. Succumb to fear, and you will fail.
-DIALOGDATA_ENOK_BRANCH_2_DIALOG_3_SELECTION_0	Goodbye.
-DIALOGDATA_ENOK_BRANCH_2_DIALOG_3_SELECTION_1	Another thing...
-DIALOGDATA_ENOK_BRANCH_3_DIALOG_0_INPUT	A lost soul can be driven to the ferocity of a Fighter once they have proven to be strong enough.
-DIALOGDATA_ENOK_BRANCH_3_DIALOG_1_INPUT	A Fighter can rend the flesh of foes, weakening them with bloodshed.
-DIALOGDATA_ENOK_BRANCH_3_DIALOG_2_INPUT	A Fighter can devastate surrounding enemies, from a close stomp, or afar with a lethal strike.
-DIALOGDATA_ENOK_BRANCH_3_DIALOG_3_INPUT	It takes supreme focus to have what it takes to master the art of combat.
-DIALOGDATA_ENOK_BRANCH_3_DIALOG_4_INPUT	If you have what it takes, return to me, and I can teach you.
-DIALOGDATA_ENOK_BRANCH_3_DIALOG_4_SELECTION_0	Goodbye.
-DIALOGDATA_ENOK_BRANCH_3_DIALOG_4_SELECTION_1	I see, anyways...
+DIALOGDATA_ENOK_BRANCH_1_DIALOG_0_SELECTION_3	Que es Aturdir?
+DIALOGDATA_ENOK_BRANCH_2_DIALOG_0_INPUT	Soy Enok, Guardian luchador. represento lo feroz que es la luz, asediando el infierno Y la oscuridad.
+DIALOGDATA_ENOK_BRANCH_2_DIALOG_1_INPUT	Supongo que eres nuevo en este lugar. pero haz llegado tarde, en una epoca en la que todo esta corrompido.
+DIALOGDATA_ENOK_BRANCH_2_DIALOG_2_INPUT	Mis poderes otorgan fuerza y vitalidad a aquellas almas que hayan probado ser dignas de poseerlo.
+DIALOGDATA_ENOK_BRANCH_2_DIALOG_3_INPUT	Siento una chispa de determinacion en ti. Sucumbe al miedo, Y fallaras.
+DIALOGDATA_ENOK_BRANCH_2_DIALOG_3_SELECTION_0	Adios.
+DIALOGDATA_ENOK_BRANCH_2_DIALOG_3_SELECTION_1	Otra cosa...
+DIALOGDATA_ENOK_BRANCH_3_DIALOG_0_INPUT	Un alma perdida puede ser un luchador feroz una vez ha probado ser lo suficientemente fuerte.
+DIALOGDATA_ENOK_BRANCH_3_DIALOG_1_INPUT	Un luchador puede desgarrar a sus oponentes, y masacrarlos en una lluvia de sangre.
+DIALOGDATA_ENOK_BRANCH_3_DIALOG_2_INPUT	Un luchador puede arrasar todo a su paso, con un golpe directo, un asedio letal a distancia.
+DIALOGDATA_ENOK_BRANCH_3_DIALOG_3_INPUT	Hace falta un enfoque intensivo para dominar todo lo necesario para el arte del combate.
+DIALOGDATA_ENOK_BRANCH_3_DIALOG_4_INPUT	Si crees que tienes lo necesario, ven conmigo, Y podre enseñarte.
+DIALOGDATA_ENOK_BRANCH_3_DIALOG_4_SELECTION_0	Adios.
+DIALOGDATA_ENOK_BRANCH_3_DIALOG_4_SELECTION_1	Ya veo, Entonces...
 DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_INPUT	
-DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_INPUT_ALT_0	There is business that must be tended to.
-DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_INPUT_ALT_1	Let's see if you're up to the task.
-DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_INPUT_ALT_2	Today is a fine day for bloodshed.
-DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_INPUT_ALT_3	It's time to gather your strength.
-DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_SELECTION_0	See ya!
-DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_SELECTION_1	Something else...
-DIALOGDATA_ENOK_BRANCH_5_DIALOG_0_INPUT	Parrying your foes is essential in melee combat.
-DIALOGDATA_ENOK_BRANCH_5_DIALOG_1_INPUT	To parry them, block shortly before they initiate their attack.
-DIALOGDATA_ENOK_BRANCH_5_DIALOG_2_INPUT	If you successfully parry them, it will not cost any of your stamina.
-DIALOGDATA_ENOK_BRANCH_5_DIALOG_3_INPUT	However, your foes must be relatively as strong as you for this to take in effect.
-DIALOGDATA_ENOK_BRANCH_5_DIALOG_4_INPUT	If you were to fight your foe and they happen to be much stronger than you,
-DIALOGDATA_ENOK_BRANCH_5_DIALOG_5_INPUT	you will falter and loose your stamina quickly.
-DIALOGDATA_ENOK_BRANCH_5_DIALOG_6_INPUT	Watch your enemies closely. They are nothing to you if you strategize.
-DIALOGDATA_ENOK_BRANCH_5_DIALOG_6_SELECTION_0	See ya!
-DIALOGDATA_ENOK_BRANCH_5_DIALOG_6_SELECTION_1	Something else...
-DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_0_INPUT	Looks like we have fresh blood.
-DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_1_INPUT	If you seek to toughen yourself and find the ways of valor, speak to me.
-DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_2_INPUT	If you have anything to say, it is best you do so now.
-DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_2_SELECTION_0	Nevermind.
-DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_2_SELECTION_1	I would like to know...
-DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_2_SELECTION_2	Got Quests?
-DIALOGDATA_ENOK_QUEST_ACCEPT_RESPONSE_0	Granted.
-DIALOGDATA_ENOK_QUEST_ACCEPT_RESPONSE_1	Let the bloodshed commence.
-DIALOGDATA_ENOK_QUEST_ACCEPT_RESPONSE_2	The time is now.
-DIALOGDATA_ENOK_QUEST_COMPLETE_RESPONSE_0	You're becoming more capable of these tasks, lost one.
-DIALOGDATA_ENOK_QUEST_COMPLETE_RESPONSE_1	Well done, lost one.
-DIALOGDATA_ENOK_QUEST_COMPLETE_RESPONSE_2	The hunt is complete.
-DIALOGDATA_ENOK_QUEST_COMPLETE_RESPONSE_3	Well played.
+DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_INPUT_ALT_0	Tenemos Asuntos que Atender.
+DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_INPUT_ALT_1	Veamos si esto es de tu talla.
+DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_INPUT_ALT_2	Hoy es un gran dia para un baño de sangre.
+DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_INPUT_ALT_3	Es hora de unir nuestras fuerzas.
+DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_SELECTION_0	Te veo luego!
+DIALOGDATA_ENOK_BRANCH_4_DIALOG_0_SELECTION_1	Una cosa mas...
+DIALOGDATA_ENOK_BRANCH_5_DIALOG_0_INPUT	Aturdir a tus oponentes es escencial en combate cuerpo a cuerpo.
+DIALOGDATA_ENOK_BRANCH_5_DIALOG_1_INPUT	Para aturdirlos, bloquea rapidamente antes de que inicien su ataque.
+DIALOGDATA_ENOK_BRANCH_5_DIALOG_2_INPUT	Si logras aturdirlos correctamente, no te costara energia el hacerlo.
+DIALOGDATA_ENOK_BRANCH_5_DIALOG_3_INPUT	Excepto que, tus oponentes deben que tener una fuerza relativa a la tuya para que sea efectivo.
+DIALOGDATA_ENOK_BRANCH_5_DIALOG_4_INPUT	Si luchas contra un enemigo y resulta ser mas fuerte que tu,
+DIALOGDATA_ENOK_BRANCH_5_DIALOG_5_INPUT	flaquearas en hacerlo y perderas tu energia con facilidad.
+DIALOGDATA_ENOK_BRANCH_5_DIALOG_6_INPUT	Observa tus enemigos con detenimiento. No hay nada imposible para ti si tienes una estrategia.
+DIALOGDATA_ENOK_BRANCH_5_DIALOG_6_SELECTION_0	Te veo luego!
+DIALOGDATA_ENOK_BRANCH_5_DIALOG_6_SELECTION_1	Una cosa mas...
+DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_0_INPUT	Parece ser que tenemos carne fresca.
+DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_1_INPUT	Si buscas volverte fuerte y seguir el camino del valor, habla conmigo.
+DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_2_INPUT	Si tienes algo que decir, Dilo ahora.
+DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_2_SELECTION_0	Olvidalo.
+DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_2_SELECTION_1	Me gustaria Saber...
+DIALOGDATA_ENOK_INTRODUCTION_BRANCH_0_DIALOG_2_SELECTION_2	Alguna Mision?
+DIALOGDATA_ENOK_QUEST_ACCEPT_RESPONSE_0	Concedido.
+DIALOGDATA_ENOK_QUEST_ACCEPT_RESPONSE_1	Que comienze la masacre.
+DIALOGDATA_ENOK_QUEST_ACCEPT_RESPONSE_2	Es hora o nunca.
+DIALOGDATA_ENOK_QUEST_COMPLETE_RESPONSE_0	Te estas volviendo muy fuerte en estas trevesias, Uno menos.
+DIALOGDATA_ENOK_QUEST_COMPLETE_RESPONSE_1	Bien hecho, Uno menos.
+DIALOGDATA_ENOK_QUEST_COMPLETE_RESPONSE_2	La cazeria esta completa.
+DIALOGDATA_ENOK_QUEST_COMPLETE_RESPONSE_3	Bien jugado.
 DIALOGDATA_SANCTUMCIVILIAN_00_NAME_TAG	
 DIALOGDATA_SANCTUMCIVILIAN_00_BRANCH_0_DIALOG_0_INPUT	
 DIALOGDATA_SANCTUMCIVILIAN_00_BRANCH_0_DIALOG_0_INPUT_ALT_0	Hello.
