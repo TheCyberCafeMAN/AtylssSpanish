@@ -4,6 +4,8 @@ Este proyecto es **W.I.P** (work in progress/trabajo en progreso) no esta comple
 
 Ten en cuenta que por limitaciones del mod no se puede traducir el juego de manera total
 
+**ADVERTENCIA:** El mod puede causar craseos en misiones uselo bajo su responsabilidad
+
 # Progreso de La traducion actual
 *  menus del juego - **80%**
 *  quests (misiones) - **1%**
@@ -32,8 +34,10 @@ Ten en cuenta que por limitaciones del mod no se puede traducir el juego de mane
 
    6. Dale "Apply". Y listo para jugar
 
-#Contacto / Donaciones
+# Contacto / Donaciones
+
 Si tienes alguna duda, problema o sugerencia contactame a mi discord: thecybercafeman
 
 Si bien este proyecto es sin animo de lucro una donacion por [ko-fi](https://ko-fi.com/thecybercafeman) me ayudaria un monton
 
+Atlyss tiene un server de discord en español visitalo: <https://discord.gg/wGyHNcrGbM> 
