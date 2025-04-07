@@ -20,7 +20,7 @@ Ten en cuenta que por limitaciones del mod no se puede traducir el juego de mane
   * EasySettings (Complemento para el mod) <https://github.com/Nestorboy/ATLYSS-EasySettings/releases>
  
  **Para instalar la traduccion sigue estos pasos:** 
-   1. Dirigite el boton verde "Code" y luego a "Download Zip" Para descargar la traduccion
+   1. Dirigite al boton verde "Code" y luego a "Download Zip" Para descargar la traduccion
 
    2. localiza y entra el directorio del juego, el directorio del juego dependera si tienes el juego comprado en steam o si tienes el juego pirateado. en steam se encuentra localizado en 
    "C:\Archivos de programa (x86)\Steam\steamapps\common\ATLYSS"
